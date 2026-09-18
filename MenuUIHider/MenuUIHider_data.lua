@@ -1,3 +1,5 @@
+-- MenuUIHider_data.lua
+
 local mod = get_mod("MenuUIHider")
 
 return {

@@ -1,0 +1,64 @@
+{
+	"name": "Menu UI Hider",
+	"description": "Hides all menu interface elements with a button press.",
+	"version": "1.0.0",
+	"author": "xsSplater",
+	"homepage": "https://www.nexusmods.com/warhammer40kdarktide/mods/685",
+	"source": "https://github.com/xsSplater/Darktide-MenuUIHider",
+	"funding": {
+		"boosty": "https://boosty.to/xssplater",
+		"donationalerts": "https://www.donationalerts.com/r/xssplater"
+	},
+	"nexusId": "685",
+	"dependencies": {
+		"required": [],
+		"self_after": [],
+		"self_before": []
+	},
+	"localization": {
+		"de": {
+			"name": "Menü-UI-Ausblender",
+			"description": "Verbirgt alle Menü-Oberflächenelemente per Tastendruck."
+		},
+		"es": {
+			"name": "Ocultador de interfaz del menú",
+			"description": "Oculta todos los elementos de la interfaz del menú con una pulsación de tecla."
+		},
+		"fr": {
+			"name": "Masqueur d'interface du menu",
+			"description": "Masque tous les éléments de l'interface du menu avec une pression sur une touche."
+		},
+		"it": {
+			"name": "Nascondi interfaccia menu",
+			"description": "Nasconde tutti gli elementi dell'interfaccia del menu con la pressione di un tasto."
+		},
+		"ja": {
+			"name": "メニューUI非表示",
+			"description": "ボタンを押すとメニューインターフェースのすべての要素を非表示にします。"
+		},
+		"ko": {
+			"name": "메뉴 UI 숨기기",
+			"description": "버튼을 누르면 메뉴 인터페이스의 모든 요소를 숨깁니다."
+		},
+		"pl": {
+			"name": "Ukrywacz interfejsu menu",
+			"description": "Ukrywa wszystkie elementy interfejsu menu po naciśnięciu przycisku."
+		},
+		"pt-br": {
+			"name": "Ocultador de interface do menu",
+			"description": "Oculta todos os elementos da interface do menu com o pressionar de um botão."
+		},
+		"ru": {
+			"name": "Скрыватель интерфейса меню",
+			"description": "Menu UI Hider - Скрывает все элементы интерфейса в меню по нажатию кнопки."
+		},
+		"zh-cn": {
+			"name": "隐藏所有界面",
+			"description": "提供快捷键，用于隐藏菜单界面的所有元素。"
+		},
+		"zh-tw": {
+			"name": "隱藏所有介面",
+			"description": "提供快捷鍵，用於隱藏選單介面的所有元素。"
+		}
+	}
+}
